@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A website that offers search engine optimization, online reputation management and social media marketing. While increasing lead generation, brand awareness, and cost management.
+A website that offers search engine optimization, online reputation management and social media marketing. All while increasing lead generation, brand awareness, and cost management.
 
 ## Built With
 
