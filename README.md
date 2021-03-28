@@ -13,11 +13,11 @@ A website that offers search engine optimization, online reputation management a
 
 https://rarchita12.github.io/Horiseon/
 
-![](assets\images\WebsiteScreenshot1.JPG)
+![](assets/images/WebsiteScreenshot1.JPG)
 
-![](assets\images\WebsiteScreenshot2.JPG)
+![](assets/images/WebsiteScreenshot2.JPG)
 
-![](assets\images\WebsiteScreenshot3.JPG)
+![](assets/images/WebsiteScreenshot3.JPG)
 
 ## Contribution
 
